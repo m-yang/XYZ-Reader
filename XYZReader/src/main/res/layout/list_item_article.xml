@@ -17,7 +17,7 @@
 
         <!--suppress AndroidLintContentDescription -->
         <com.example.xyzreader.ui.DynamicHeightNetworkImageView
-            android:scaleType="center"
+            android:scaleType="centerCrop"
             android:id="@+id/thumbnail"
             android:layout_width="match_parent"
             android:layout_height="100dp"
